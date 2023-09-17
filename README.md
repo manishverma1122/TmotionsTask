@@ -1,4 +1,4 @@
-Hi, I have created the WordPress custom theme where I have made changes as per the task assigned to me.
+Hi, I have created the WordPress custom theme where I have made changes as per the task.
 
 "
 Create a shop site WITHOUT using plugin:
